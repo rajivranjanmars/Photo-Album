@@ -1,2 +1,13 @@
-# Photo-Album
-This is a Photo Album website that can be used by the user to store their pictures
+# Photo Album
+
+Static photo-album website with category pages, image thumbnails, and lightbox galleries for events such as birthdays and vacations. Images are bundled files; the project does not contain an upload or storage backend.
+
+## Getting started
+
+Run `python -m http.server 8000` here and open `http://localhost:8000/`. Add photos by editing the HTML and image files.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+Upstream authors, contributors, licenses, and existing project credits are retained.

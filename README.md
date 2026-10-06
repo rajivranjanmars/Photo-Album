@@ -8,6 +8,6 @@ Run `python -m http.server 8000` here and open `http://localhost:8000/`. Add pho
 
 ## Author
 
-Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+Fork author and maintainer: [Rajiv Ranjan](https://rajivranjan.in).
 
 Upstream authors, contributors, licenses, and existing project credits are retained.
